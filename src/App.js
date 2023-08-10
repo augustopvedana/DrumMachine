@@ -1,4 +1,3 @@
-import './App.css';
 import { DrumMachine } from "./components/DrumMachine"
 
 export default function App() {
